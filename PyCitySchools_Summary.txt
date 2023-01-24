@@ -1,0 +1,11 @@
+PyCitySchool Analysis
+
+Data allows us to conclude that students, regardless of school type, size or really any other variable, performed better in reading than math.
+
+Interestingly enough, spending more money per student does not seem to yield higher test results. When looking at spending per student, average grades and percent of students passing are actually higher for schools that are spending less per student. 
+
+Similarly, when looking at average test scores and percentage of students passing compared to school size, smaller schools are performing better. And not just by a small margin. For example, small schools have an overall passing rate of 89 percent, whereas large schools (those over 2,000 students) have an overall passing rate of 58 percent. 
+
+Lastly, the data does show that charter schools are performing much better than district schools. The overall passing rate for Charter schools is 90% compared to just 53% for District schools. 
+
+We may want to examine within districts how per student spending varies compared to overall passing rates. This could demonstrate that more efficient spending (cutting costs) may not necessarily mean under performing schools. 
